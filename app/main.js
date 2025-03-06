@@ -7,7 +7,7 @@ async function getBuscarLivros() {
     livros = await res.json();
     const livrosComDesconto = aplicarDesconto(livros);
     exibirLivros(livrosComDesconto);
-    exibirValorTotal();
+    
 }
 
 
