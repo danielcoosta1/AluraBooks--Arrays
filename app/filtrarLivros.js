@@ -5,6 +5,7 @@ allBtnLivros.forEach(btn => btn.addEventListener("click",(evento)=>{
     const categoria = elementoBtn.value
     let livrosFiltrados = livros.filter(livro=> livro.categoria == categoria);
     exibirLivros(livrosFiltrados);
+    exibirValorTotal();
 }));
 
 // function filtrarLivros(){
