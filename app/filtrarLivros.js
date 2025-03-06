@@ -13,3 +13,4 @@ allBtnLivros.forEach(btn => btn.addEventListener("click",(evento)=>{
 //     let livrosFiltrados = livros.filter(livro=> livro.categoria == categoria);
 //     exibirLivros(livrosFiltrados);
 // }
+
