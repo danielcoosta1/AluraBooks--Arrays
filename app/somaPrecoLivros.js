@@ -9,7 +9,7 @@ function exibirValorTotal(){
     
     textoSomaLivros.innerHTML = `
     <div class="livros__disponiveis">
-      <p>Todos os livros disponíveis por R$ <span id="valor">${somaValorLivros}</span></p>
+      <p>Todos os livros disponíveis por R$ <span id="valor">${somaValorLivros.toFixed(2)}</span></p>
     </div>
     `;
 }    
