@@ -1,4 +1,4 @@
-<h1>Projeto CodeConnect - PUBLICAR</h1>
+<h1>Projeto ALLURABOOKS - MÉTODOS ARRAYS</h1>
 <p>Projeto ficticio da plataforma ALURA</p>
 
 
