@@ -10,7 +10,8 @@ function exibirLivros(listaDeLivros) {
             sectionLivros.innerHTML += 
             `
             <div class="livro">
-            <img class="livro__imagens" src="${livro.imagem}" alt="Capa do livro ${livro.titulo}" />
+            <img class="livro__imagens" src="${livro.imagem}" 
+            alt="Capa do livro ${livro.titulo}" />
             <h2 class="livro__titulo">
             ${livro.titulo}
             </h2>
@@ -25,7 +26,8 @@ function exibirLivros(listaDeLivros) {
             sectionLivros.innerHTML += 
             `
             <div class="livro">
-            <img class="livro__imagens indisponivel" src="${livro.imagem}" alt="Capa do livro ${livro.titulo}" />
+            <img class="livro__imagens indisponivel" src="${livro.imagem}" 
+            alt="Capa do livro ${livro.titulo}" />
             <h2 class="livro__titulo">
             ${livro.titulo}
             </h2>
