@@ -22,4 +22,4 @@ como Nome, Preço,Autor, Categoria, Quantidade</br>
 
 <img src="https://github.com/danielcoosta1/AluraBooks--Arrays/blob/develop/imagens/exemplo_pagina1.PNG?raw=true"> 
 <img src="https://github.com/danielcoosta1/AluraBooks--Arrays/blob/develop/imagens/exemplo_pagina2.PNG?raw=true">
-
+<img src="https://github.com/danielcoosta1/AluraBooks--Arrays/blob/develop/imagens/exemplo_pagina3.PNG?raw=true">
