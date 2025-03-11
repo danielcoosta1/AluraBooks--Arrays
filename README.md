@@ -8,6 +8,7 @@
 :heavy_check_mark: Manipulação dos elementos da DOM;</br>
 :heavy_check_mark: Uso da função Fetch() para recuperar alguns dados JSON de um servidor</br>
 :heavy_check_mark: Utilização dos MÉTODOS ARRAYS: MAP, REDUCE, FILTER, SORT, FOREACH </br>
+:heavy_check_mark: Uso do THIS em manipuladores de eventos</br>
 </p>
 
 <h2>:pencil2: Projeto:</h2>
